@@ -1,11 +1,9 @@
 {
-  "description": "Aaron's personal developer website",
-  "repo": "https://github.com/aaron-harvey",
   "owner": {
-    "username": "aaronharvey",
-    "email": "aaron@lolsup.com"
+    "username": "AaronPerezPerez",
+    "email": "aarperper@gmail.com"
   },
   "record": {
-    "CNAME": "lolsup.com"
+    "CNAME": "terminal-portfolio-h80h9v8ub-aaronperezperez.vercel.app"
   }
 }

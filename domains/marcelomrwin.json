@@ -1,0 +1,10 @@
+{
+  "description": "My personal website to showcase the stuff that I do",
+  "owner": {
+    "username": "marcelomrwin",
+    "email": "marcelo.d.sales@gmail.com"
+  },
+  "record": {
+    "CNAME": "marcelomrwin.github.io"
+  }
+}

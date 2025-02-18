@@ -1,0 +1,10 @@
+{
+  "description": "Mantas is a developer!",
+  "owner": {
+    "username": "mantooc",
+    "email": "mantasnugaras@gmail.com"
+  },
+  "record": {
+    "CNAME": "mantooc.github.io"
+  }
+}

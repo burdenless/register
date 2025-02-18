@@ -1,0 +1,10 @@
+{
+  "description": "using for personal projects",
+  "owner": {
+    "username": "ItsMyEyes",
+    "email": "dev@sipaling.top"
+  },
+  "record": {
+    "CNAME": "itsmyeyes.github.io"
+  }
+}
