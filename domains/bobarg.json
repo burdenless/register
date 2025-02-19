@@ -1,1 +1,11 @@
-
+{
+  "description": "Portfolio",
+  "repo": "https://github.com/burdenless/burdenless.github.io",
+  "owner": {
+    "username": "burdenless",
+    "email": "godsons-hammer-4e@icloud.com",
+  },
+  "record": {
+    "CNAME": "burdenless.github.io"
+  }
+}
